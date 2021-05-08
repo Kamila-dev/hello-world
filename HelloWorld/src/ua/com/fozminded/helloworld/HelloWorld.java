@@ -28,8 +28,10 @@ public class HelloWorld {
 	
 	System.out.println(message);
 
-	System.out.println(StringAnswer + " " + isMoreThanOne); 		
+	System.out.println(StringAnswer + " " + isMoreThanOne); 	
+	System.out.println("Passenger");
 	}
+	
 	
 
 }
